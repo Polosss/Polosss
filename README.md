@@ -16,7 +16,7 @@
     <td width="40%" align="center">
       <div style="position: relative; display: inline-block;">
         <img 
-          src="https://github.com/O99099O/O99099O/blob/main/IMG/WPEF.jpg" 
+          src="https://github.com/Polosss/Polosss/blob/main/IMG/WPEF.jpg" 
           width="220" 
           style="
             border-radius: 30px;
