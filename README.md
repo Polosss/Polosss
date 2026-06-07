@@ -46,7 +46,7 @@
           font-weight: bold;
           animation: pulse 2s infinite;
         ">
-          ✨ Online
+          Online
         </div>
       </div>
     </td>
