@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td width="60%">
-      <h1 style="font-size: 3em; margin-bottom: 10px;">🌀 Poloss 🌀</h1>
-      <h3 style="color: #ff6b9d; margin-top: 5px;">🎀 ʙᴜɪʟᴅɪɴɢ ᴛʜɪɴɢꜱ ᴡɪᴛʜ ᴄᴏᴅᴇ & ᴘᴀꜱꜱɪᴏɴ</h3>
+      <h1 style="font-size: 3em; margin-bottom: 10px;"> Poloss </h1>
+      <h3 style="color: #ff6b9d; margin-top: 5px;">A person lost in the digital world</h3>
       <div style="display: flex; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
         <span style="background: linear-gradient(45deg, #ff6b9d, #ff99cc); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold;">✨ Just a beginner learning ✨</span>
       </div>
